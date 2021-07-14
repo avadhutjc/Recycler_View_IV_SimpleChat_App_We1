@@ -1,0 +1,17 @@
+com/masai/a1314july_recycler_view_iv_we1/BaseModel.java
+ com.masai.a1314july_recycler_view_iv_we1.BaseModel
+com/masai/a1314july_recycler_view_iv_we1/BuildConfig.java
+ com.masai.a1314july_recycler_view_iv_we1.BuildConfig
+com/masai/a1314july_recycler_view_iv_we1/ReceiverViewHolder.java
+ com.masai.a1314july_recycler_view_iv_we1.ReceiverViewHolder
+com/masai/a1314july_recycler_view_iv_we1/ReceiverModel.java
+ com.masai.a1314july_recycler_view_iv_we1.ReceiverModel
+com/masai/a1314july_recycler_view_iv_we1/SenderModel.java
+ com.masai.a1314july_recycler_view_iv_we1.SenderModel
+com/masai/a1314july_recycler_view_iv_we1/SenderViewHolder.java
+ com.masai.a1314july_recycler_view_iv_we1.SenderViewHolder
+com/masai/a1314july_recycler_view_iv_we1/MainActivity.java
+ com.masai.a1314july_recycler_view_iv_we1.MainActivity
+ com.masai.a1314july_recycler_view_iv_we1.MainActivity$1
+com/masai/a1314july_recycler_view_iv_we1/ChatAdapter.java
+ com.masai.a1314july_recycler_view_iv_we1.ChatAdapter

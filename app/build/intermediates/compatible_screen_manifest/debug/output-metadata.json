@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.masai.a1314july_recycler_view_iv_we1",
+  "variantName": "debug",
+  "elements": []
+}
